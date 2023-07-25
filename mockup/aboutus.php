@@ -1,0 +1,71 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>About US</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstra.min.css">
+      <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+      <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="row">
+     <div class="logo-row">
+       <img src="logo.png" alt="logo" class="logo">
+     </div>
+   </div>
+
+
+  <header class="masthead" style="background-image:url('assets/img/ok.jfif');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <h1>Lamol Apparels L.t.d</h1><br>
+                        <p class="intro-text">One Of The Most Successful Garments Manufacturing Companies of Bangladesh<br></p>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="about" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>About LAMOL</h2>
+                    <p>Lamol Apparels Ltd is one of the successful garments manufacturing companies in Bangladesh involved in producing and exportng high qualily garments to the various countries in the world. Each of the manufacturing unit of Lamol  runs and manages by highly skilled technicians and professionals Our mian items are al kind of Knits All activities of Lamol is carried out an full complance with the applicable international laws and rules including those relating to labor, workers health safety and environment. All the members of this unit is committed to respecting and abiding by al social compliance Health and safety regulations and Ethical Trading Policy</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>Contact us<br><br></h2>
+                    <p>Feel free to leave us a comment on the<a href="#">&nbsp;Lamol Apparels Ltd's page</a>&nbsp;to give some <br>feedback about our product!</p>
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><a class=href="https://google.com"><span class="network-name">&nbsp; Google+</span></button></li>
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><a class=href="https://twitter.com"><span class="network-name">&nbsp;Twitter</span></button></li>
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><a class=href="https://github.com"><span class="network-name">&nbsp;github</span></button></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container text-center">
+            <p>Copyright ©&nbsp;Brand 2020</p>
+        </div>
+
+ </body>
+</html>
